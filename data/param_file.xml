@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PARAM>
+  <ORDER_FOLDER>C:\xampp\htdocs\glenlivet\order\</ORDER_FOLDER>
+  <OUTPUT_FOLDER>C:\Users\reng.tsai\Documents\Processing\GlenVideoTask\output\</OUTPUT_FOLDER>
+  <WAV_FOLDER>C:\xampp\htdocs\glenlivet\upload\</WAV_FOLDER>
+  <VIDEO_FILE>C:\Users\reng.tsai\Documents\Processing\GlenVideoTask\data\upload_video_4.mp4</VIDEO_FILE>
+  <AUDIO_FILE>C:\Users\reng.tsai\Documents\Processing\GlenVideoTask\data\upload_audio.wav</AUDIO_FILE>
+  <FFMPEG_PATH>C:\ffmpeg\bin\ffmpeg.exe</FFMPEG_PATH>
+  <SERVER_URL>http://mmlab.bremennetwork.tw/Glenlivet2017</SERVER_URL>
+  <VIDEO_QUALITY>23</VIDEO_QUALITY>
+  <LOCAL_IP>192.168.2.</LOCAL_IP>
+  <IP_START>100</IP_START>
+  <CLIENT_FULL>20</CLIENT_FULL>
+  <CLIENT_COUNT>80</CLIENT_COUNT>
+</PARAM>
